@@ -49,16 +49,16 @@ Sports Analytics is becoming increasingly famous, with top sports teams tying up
 <img src="./screenshots/ss3.png" width=900px/>
 <br>
 <h4 align="center">Predicting a batsman's performance</h4>
-<img src="./Snapshots/ss4.png" width=900px/>
+<img src="./screenshots/ss4.png" width=900px/>
 <br>
 <h4 align="center">Head-to-head Statistics</h4>
-<img src="./Snapshots/ss7.png" width=900px/>
+<img src="./screenshots/ss7.png" width=900px/>
 <br>
 <h4 align="center">Team vs Team Prediction</h4>
-<img src="./Snapshots/ss5.png" width=900px/>
+<img src="./screenshots/ss5.png" width=900px/>
 <br>
 <h4 align="center">Squad Prediction using K-means Clustering</h4>
-<img src="./Snapshots/ss6.jpeg" width=900px/>
+<img src="./screenshots/ss6.jpeg" width=900px/>
 <br>
 
 <br>
