@@ -103,5 +103,6 @@ Sports Analytics is becoming increasingly famous, with top sports teams tying up
 
 This project was done as a part of DJ-ACM LOC Hackathon 2020 `with no pre-preparation in less than 24 hours.`
 
+The project made it to top 5 in the Hackathon. 
 ---
 <h3 align="center"><b>Developed with :heart: by Team Reunited.</b></h1>
