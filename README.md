@@ -96,7 +96,7 @@ Sports Analytics is becoming increasingly famous, with top sports teams tying up
 #### This project still has scope of development, so you can also contribute to this Project as follows:
 * [Fork](https://github.com/nachiketbhuta/exsports-analytics) this Repository.
 * Clone your Fork on a different branch:
-	* `git clone -b <name-of-branch> https://github.com/zenilharia26/KhaanDaan.git`
+	* `git clone -b <name-of-branch> https://github.com/nachiketbhuta/exports-analytics.git`
 * After adding any feature:
 	* Goto your fork and create a pull request.
 	* We will test your modifications and merge changes.
